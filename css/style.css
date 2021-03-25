@@ -82,3 +82,30 @@ a{
     color: #F04037;
     border-color: #F04037;
 }
+
+/* heading */
+
+.heading {
+    display: flex;
+    align-items: center;
+}
+
+.bring {
+    font-size: 50px;
+    color: #fff;
+}
+
+.create-custom {
+    width: 428px;
+    height: 130px;
+    font-size: 17px;
+    line-height: 39px;
+    letter-spacing: -0.656526px;
+    margin-top: 30px;
+    color: rgba(255, 255, 255, 0.7);
+}
+
+.left-content {
+    width: 400px;
+    text-align: left;
+}
